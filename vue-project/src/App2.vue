@@ -1,9 +1,9 @@
 <script setup>
-import TestItem3 from './components/TestItem3.vue'
+import TestItem4 from './components/TestItem4.vue'
 </script>
 
 <template>
-  <TestItem3/>
+  <TestItem4/>
 </template>
 
 <style scoped>
