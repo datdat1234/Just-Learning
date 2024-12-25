@@ -44,7 +44,7 @@ even when you mutate nested objects or arrays.
 
 - When you mutate reactive state in Vue, the resulting DOM updates are not applied synchronously. 
 Instead, Vue buffers them until the "next tick" to ensure that each component updates only once 
-no matter how many state changes you have made
+no matter how many state changes you have made.
 
 - reactive() converts the object deeply: nested objects are also wrapped with reactive() when accessed. 
 It is also called by ref() internally when the ref value is an object. Similar to shallow refs, 

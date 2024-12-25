@@ -1,9 +1,9 @@
 <script setup>
-import TestItem8 from './components/TestItem8.vue'
+import TestItem9 from './components/TestItem9.vue'
 </script>
 
 <template>
-  <div class="container"><TestItem8 /></div>
+  <div class="container"><TestItem9 /></div>
 </template>
 
 <style scoped>
