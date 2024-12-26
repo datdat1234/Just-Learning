@@ -1,9 +1,19 @@
 <script setup>
-import TestItem9 from './components/TestItem9.vue'
+import { useTemplateRef, onMounted } from 'vue'
+import TestItem10 from './components/TestItem10.vue'
+
+const childRef = useTemplateRef('child')
+
+onMounted(() => {
+  childRef.value.c = 4;
+  console.log(childRef.value.c)
+})
 </script>
 
 <template>
-  <div class="container"><TestItem9 /></div>
+  <div class="container">
+    <TestItem10 ref="child" />
+  </div>
 </template>
 
 <style scoped>
