@@ -10,11 +10,3 @@ let rawHtml = '<span style="color: red">This should be red.</span>';
 
 <style scoped>
 </style>
-
-<!-- 
-- Shorthand: 
-1) v-bind ~ :
-2) v-on ~ @
-- Dynamic Arguments: <a v-bind:[attributeName]="url"> ... </a> (Wrapping it with square brackets)
-3) Modifiers:
--->
