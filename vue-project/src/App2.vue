@@ -1,11 +1,11 @@
 <script setup>
 import { useTemplateRef, onMounted } from 'vue'
-import TestItem14 from './components/TestItem14.vue'
+import TestItem15 from './components/TestItem15.vue'
 </script>
 
 <template>
   <div class="container">
-    <component :is="TestItem14"></component>
+    <component :is="TestItem15"></component>
   </div>
 </template>
 

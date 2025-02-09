@@ -1,6 +1,6 @@
 <script setup></script>
 <template>
-  <h1>Bello world?</h1>
+  <h1 class="red">Bello world?</h1>
 </template>
 <style>
 .red {
