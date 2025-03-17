@@ -49,7 +49,7 @@
 ​
 <div class="center">
 
-![alt text](transition-classes.png)
+![alt text](../image/transition-classes.png)
 
 </div>
 
