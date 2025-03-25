@@ -11,7 +11,10 @@ This branch will contain my basic Java lessons based on the OCA Java SE 8 Progra
 In this branch, I will commit lessons from the [Vue.js documentation](https://vuejs.org/guide/introduction.html). This is part of my effort to enhance my skills in using Vue.js for project development.
 
 4. mobile/Android/Java branch <br />
-In this branch, I will commit lessons from the [Android documentation](https://www.tutorialspoint.com/android/android_overview.htm). These lessons will support the development of mobile projects using native Java at my company.
+In this branch, I will commit lessons from the [Android documentation](https://developer.android.com/courses/android-basics-compose/course). These lessons will support the development of mobile projects using native Java at my company.
 
 5. mobile/iOS/Swift branch <br />
 I will commit lessons focused on developing iOS applications for projects at my company. Those lessons are sourced from [iOS roadmap](https://roadmap.sh/ios).
+
+6. java/SpringBoot <br />
+I will commit my notes while learning Spring Boot from [Spring Boot documentation](https://spring.academy/paths) to this branch.
