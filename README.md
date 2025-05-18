@@ -10,6 +10,14 @@ This branch will contain my basic Java lessons based on the OCA Java SE 8 Progra
 3. vueJS branch <br />
 In this branch, I will commit lessons from the [Vue.js documentation](https://vuejs.org/guide/introduction.html). This is part of my effort to enhance my skills in using Vue.js for project development.
 
+Vite: [Vite Documentation](https://vite.dev/guide/)
+
+Vue Router: [Vue Router Documentation](https://router.vuejs.org/introduction.html)
+
+Vue APIs: [Vue APIs Documentation](https://vuejs.org/api/)
+
+Vue Style Guide: [Vue Style Guide](https://vuejs.org/style-guide/)
+
 4. mobile/Android/Java branch <br />
 In this branch, I will commit lessons from the [Android documentation](https://developer.android.com/courses/android-basics-compose/course). These lessons will support the development of mobile projects using native Java at my company.
 
