@@ -25,3 +25,6 @@ I will commit lessons focused on developing iOS applications for projects at my 
 
 6. java/SpringBoot <br />
 I will commit my notes while learning Spring Boot from [Spring Boot documentation](https://spring.academy/paths) to this branch.
+
+7. pcBuilding <br />
+My notes on learning to build a PC will be committed to this branch.
