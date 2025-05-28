@@ -13,6 +13,9 @@ In this branch, I will commit lessons from the [Vue.js documentation](https://vu
    - Vue Router: [Vue Router Documentation](https://router.vuejs.org/introduction.html)
    - Vue APIs: [Vue APIs Documentation](https://vuejs.org/api/)
    - Vue Style Guide: [Vue Style Guide](https://vuejs.org/style-guide/)
+   - Vue SSG: [VitePress](https://vitepress.dev/)
+   - Testing: [Vitest](https://vitest.dev/)
+   - Improve FE project: [This Blog](https://thanhle.blog/)
 
 4. mobile/Android/Java branch <br />
 In this branch, I will commit lessons from the [Android documentation](https://developer.android.com/courses/android-basics-compose/course). These lessons will support the development of mobile projects using native Java at my company.
@@ -22,3 +25,6 @@ I will commit lessons focused on developing iOS applications for projects at my 
 
 6. java/SpringBoot <br />
 I will commit my notes while learning Spring Boot from [Spring Boot documentation](https://spring.academy/paths) to this branch.
+
+7. pcBuilding <br />
+My notes on learning to build a PC will be committed to this branch.
